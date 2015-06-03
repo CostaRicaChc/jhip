@@ -1,0 +1,5 @@
+com/ua/pim_schema_tool/web/rest/UserResourceTest.class
+com/ua/pim_schema_tool/security/SecurityUtilsTest.class
+com/ua/pim_schema_tool/web/rest/TestUtil.class
+com/ua/pim_schema_tool/service/UserServiceTest.class
+com/ua/pim_schema_tool/web/rest/AccountResourceTest.class

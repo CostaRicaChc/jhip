@@ -1,0 +1,5 @@
+/jhip/src/test/java/com/ua/pim_schema_tool/service/UserServiceTest.java
+/jhip/src/test/java/com/ua/pim_schema_tool/web/rest/TestUtil.java
+/jhip/src/test/java/com/ua/pim_schema_tool/web/rest/UserResourceTest.java
+/jhip/src/test/java/com/ua/pim_schema_tool/security/SecurityUtilsTest.java
+/jhip/src/test/java/com/ua/pim_schema_tool/web/rest/AccountResourceTest.java
